@@ -171,11 +171,7 @@ const RecipeId = ({ isLogin, data, token }) => {
               <p className={style.titleText}>{data.recipes_name}</p>
             </div>
             <div className={style.imgBase}>
-              <Image
-                className={style.recipeImg}
-                src={assets.landingBanner}
-                alt=""
-              />
+              <Image className={data.photo} src={assets.landingBanner} alt="" />
             </div>
             <div className="d-flex flex-row gap-3">
               <div>
