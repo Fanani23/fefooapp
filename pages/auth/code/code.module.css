@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+.container {
+  width: 100%;
+  height: 100vh;
+  font-family: "Inter", sans-serif;
+}
+
+.containerAuth {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-items: center;
+}
+
+.authLeft {
+  width: 50%;
+  height: 100vh;
+}
+
+.authBanner {
+  width: 683px;
+  height: 100vh;
+}
+
+.authRight {
+  width: 50%;
+  height: 100vh;
+}
+
+.rightBase {
+  width: 65%;
+  height: 50vh;
+  margin: 40vh auto auto auto;
+}
+
+.rightVal {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.checkBox {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.welcomeText {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  color: #efc81a;
+  margin-bottom: 0;
+}
+
+.welcomeInfo {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #8692a6;
+  margin-bottom: 0;
+}
+
+.rightForm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.labelText {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #696f79;
+}
+
+.termsText {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #696f79;
+  margin-bottom: 0;
+}
+
+.authButton {
+  width: 100%;
+  height: 44px;
+  border: transparent;
+  border-radius: 6px;
+  background-color: #efc81a;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.forgotText {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #999999;
+  text-align: right;
+}
+
+.accountText {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 17px;
+  color: #999999;
+}
+
+.accountButton {
+  color: #efc81a;
+}
