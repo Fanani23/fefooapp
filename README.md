@@ -32,7 +32,7 @@
 
 ## About The Project
 
-Mama Recipe is web base application used to share and view some recipe from everyone, user can add, edit and delete recipe as they want and the other can see all recipes from other user. This application built with Node JS, Next JS as frontend framework.
+Seed Food App is web base application used to share and view some recipe from everyone, user can add, edit and delete recipe as they want and the other can see all recipes from other user. This application built with Node JS, Next JS as frontend framework.
 This Application use Rest API server from [seedfoodapp](https://befoodapp.vercel.app/)
 
 ### Built With
