@@ -87,21 +87,41 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Screenshot
 
-| Add Recipe Page                                               | Detail Page                                                          |
-| ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![add recipe](/screenshot/Add.png?raw=true "Add Recipe Page") | ![detail recipe](/public/demo/add.png?raw=true "Detail Recipe Page") |
-
-| Register Page                                                  | Login Page                                              |
-| -------------------------------------------------------------- | ------------------------------------------------------- |
-| ![landing](/public/demo/register.png??raw=true "Landing Page") | ![login](//public/demo/login.png?raw=true "Login Page") |
-
-| Landing Page                                                | Verification Page                                                           |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Landing](/screenshot/landing.png?raw=true "Landing Page") | ![verification](/public/demo/verification.png?raw=true "Verification Page") |
-
 | Profile Page                                                 |
 | ------------------------------------------------------------ |
 | ![profile](/public/demo/profile.png?raw=true "Profile Page") |
+
+| Login Page                                             |
+| ------------------------------------------------------ |
+| ![login](/public/demo/login.png?raw=true "Login Page") |
+
+| Register Page                                                   |
+| --------------------------------------------------------------- |
+| ![register](/public/demo/register.png?raw=true "Register Page") |
+
+| Verification Page                                                           |
+| --------------------------------------------------------------------------- |
+| ![verification](/public/demo/verification.png?raw=true "Verification Page") |
+
+| Forgot Page                                               |
+| --------------------------------------------------------- |
+| ![forgot](/public/demo/forgot.png?raw=true "Forgot Page") |
+
+| Landing Page                                                 |
+| ------------------------------------------------------------ |
+| ![landing](/public/demo/landing.png?raw=true "Landing Page") |
+
+| Home Page                                           |
+| --------------------------------------------------- |
+| ![home](/public/demo/home.png?raw=true "Home Page") |
+
+| Add Page                                         |
+| ------------------------------------------------ |
+| ![add](/public/demo/add.png?raw=true "Add Page") |
+
+| Detail Page                                               |
+| --------------------------------------------------------- |
+| ![detail](/public/demo/detail.png?raw=true "Detail Page") |
 
 <!-- RELATED PROJECT -->
 
