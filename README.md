@@ -129,7 +129,7 @@ Contributions are what make the open source community such an amazing place to b
 
 - [`Seed Food App Demo`](https://fefoodapp.vercel.app/)
 - [`Seed Food App Rest API`](https://befoodapp.vercel.app/)
-- [`Mama Recipe Rest API Repository`](https://github.com/Fanani23/fefoodapp.git)
+- [`Seed Food App Rest API Repository`](https://github.com/Fanani23/fefoodapp.git)
 
 <!-- CONTACT -->
 
