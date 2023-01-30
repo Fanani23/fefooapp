@@ -87,9 +87,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Screenshot
 
-| Profile Page                                                 |
-| ------------------------------------------------------------ |
-| ![profile](/public/demo/profile.png?raw=true "Profile Page") |
+| Profile Page                                                  |
+| ------------------------------------------------------------- |
+| ![profile](/public/demo/profilee.png?raw=true "Profile Page") |
 
 | Login Page                                             |
 | ------------------------------------------------------ |
